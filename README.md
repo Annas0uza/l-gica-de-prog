@@ -1,2 +1,2 @@
-# l-gica-de-prog
+# logica-de-prog
 algoritmos e lógica de programação udemy.
